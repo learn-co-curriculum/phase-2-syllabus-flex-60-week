@@ -34,9 +34,7 @@ can be used to create more complex user interfaces. Finally, you'll learn about
   - ⭐️ Introduction to React Quiz
 - Components and Props (16)
   - ⭐️ Putting it All Together: Components and Props
-  - ⭐️ Components and Props Quiz
 - State and Events (16)
-  - ⭐️ State and Events Quiz
   - ⭐️ Putting it All Together: State and Events
 - Additional Practice: State and Events (2)
 
@@ -54,7 +52,6 @@ labs.
 
 - Side Effects and Data Fetching (8)
   - ⭐️ Putting it All Together: React Fetch CRUD Lab
-  - ⭐️ Side Effects and Data Fetching Quiz
 - (Optional) React Under the Hood (4)
 - Additional Practice (14)
   - **Note**: You don't have to complete every challenge in this section. Here
@@ -74,7 +71,7 @@ labs.
     problems!
   - **Chatterbox** here for you if you like Scrimba and want a code
     challenge-style Scrimba exercise:
-    [https://scrimba.com/playlist/prxdvSy][ (Links to an external site.)]
+    [https://scrimba.com/playlist/prxdvSy](https://scrimba.com/playlist/prxdvSy)
 
 ## Weeks 21 – 23
 
