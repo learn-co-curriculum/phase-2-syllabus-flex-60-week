@@ -19,7 +19,7 @@ the right pace. The lessons marked with a ⭐️ are **milestones** that are use
 to check your understanding of the material you've learned. If you feel you're
 falling behind, make sure to communicate with your instructor.
 
-## Weeks 15 – 17
+## Weeks 13 – 15
 
 To get started with React, you'll first learn React's core philosophy and some
 of the modern JavaScript tools needed to get up and running with React. You'll
@@ -38,7 +38,7 @@ can be used to create more complex user interfaces. Finally, you'll learn about
   - ⭐️ Putting it All Together: State and Events
 - Additional Practice: State and Events (2)
 
-## Weeks 18 – 20
+## Weeks 16 – 18
 
 Now that you've learned React's approach to building applications with regards
 to components and state, it's time to expand on what you know by learning how to
@@ -73,7 +73,7 @@ labs.
     challenge-style Scrimba exercise:
     [https://scrimba.com/playlist/prxdvSy](https://scrimba.com/playlist/prxdvSy)
 
-## Weeks 21 – 23
+## Weeks 19 – 21
 
 **It's recommended that you take the Code Challenge for this Phase now**,
 after you've worked through some of the Additional Practice assignments and are
@@ -96,7 +96,7 @@ at your first React job.
 - (Optional) Advanced Hooks (5)
 - (Optional) Class Components (7)
 
-## Weeks 24 – 27
+## Weeks 22 – 24
 
 You know the deal: it's project time! You'll be building a new React application
 from scratch using what you've learned up to this point. Projects are a great
