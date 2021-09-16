@@ -48,9 +48,9 @@ build a single-page application in React! Use the rest of this time to get more
 practice putting all those fundamentals together with the Additional Practice
 labs.
 
-**Total Assignments: (31)**
+**Total Assignments: (32)**
 
-- Side Effects and Data Fetching (8)
+- Side Effects and Data Fetching (9)
   - ⭐️ Putting it All Together: React Fetch CRUD Lab
 - (Optional) React Under the Hood (4)
 - Additional Practice (14)
