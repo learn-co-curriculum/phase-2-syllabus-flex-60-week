@@ -56,13 +56,8 @@ labs.
 - Additional Practice (14)
   - **Note**: You don't have to complete every challenge in this section. Here
     are a few to prioritize:
-  - ⭐️ **Mock Code Challenge: Plantsy**: similar format to the actual code
-    challenge. Has a walkthrough video on the `solution-walkthrough` branch.
-    We’ll have a review lecture for this one Tuesday, so make sure you try it!
-  - ⭐️ **Mock Code Challenge: gregslist**: similar format to the actual code
-    challenge. Has a walkthrough video on the `solution-walkthrough` branch.
-    Recommend saving this for later, when you want to test yourself on how ready
-    you are for the code challenge.
+  - ⭐️ **Mock Code Challenge: Plantsy**
+  - ⭐️ **Mock Code Challenge: gregslist**
   - **React Stocks**: good practice with filter, sort, and reusable components
   - **Toy Tales**: good practice a form and doing full CRUD with a `json-server` API
   - **React Pokemon Searcher**: good practice with a form and a search filter
@@ -75,12 +70,9 @@ labs.
 
 ## Weeks 19 – 21
 
-**It's recommended that you take the Code Challenge for this Phase now**,
-after you've worked through some of the Additional Practice assignments and are
-ready to get feedback on your progress. After the code challenge, there's one
-new concept to learn before starting on projects: **client-side routing**, which
-allows you to create multiple "pages" with their own unique URLs in a
-single-page application 🤯.
+There's one new concept to learn before starting on projects: **client-side
+routing**, which allows you to create multiple "pages" with their own unique
+URLs in a single-page application 🤯.
 
 You can also check out the two optional sections. **Advanced Hooks** will cover
 a few additional hooks like `useRef` and `useContext` to add new tools to your
