@@ -54,7 +54,7 @@ labs.
   - ⭐️ Putting it All Together: React Fetch CRUD Lab
 - (Optional) React Under the Hood (4)
 - Applying Your Learning (7)
-  - ⭐️ **Flatiron Stock Exchange**
+  - ⭐️ Flatiron Stock Exchange
 - (Optional) Additional Practice (7)
 
 ## Weeks 19 – 21
