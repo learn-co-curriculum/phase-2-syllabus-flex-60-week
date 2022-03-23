@@ -27,7 +27,7 @@ then learn how to use React to create **components**: small building blocks that
 can be used to create more complex user interfaces. Finally, you'll learn about
 **state** in React, and how it makes it easier to update the DOM.
 
-**Total Assignments: (40)**
+**Total Assignments: (41)**
 
 - Welcome to Phase 2 (1)
 - Introduction to React (6)
@@ -36,7 +36,7 @@ can be used to create more complex user interfaces. Finally, you'll learn about
   - ⭐️ Putting it All Together: Components and Props
 - State and Events (16)
   - ⭐️ Putting it All Together: State and Events
-- Additional Practice: State and Events (2)
+- Applying Your Learning: State and Events (2)
 
 ## Weeks 16 – 18
 
@@ -48,25 +48,14 @@ build a single-page application in React! Use the rest of this time to get more
 practice putting all those fundamentals together with the Additional Practice
 labs.
 
-**Total Assignments: (32)**
+**Total Assignments: (27)**
 
 - Side Effects and Data Fetching (9)
   - ⭐️ Putting it All Together: React Fetch CRUD Lab
 - (Optional) React Under the Hood (4)
-- Additional Practice (14)
-  - **Note**: You don't have to complete every challenge in this section. Here
-    are a few to prioritize:
-  - ⭐️ **Mock Code Challenge: Plantsy**
-  - ⭐️ **Mock Code Challenge: gregslist**
-  - **React Stocks**: good practice with filter, sort, and reusable components
-  - **Toy Tales**: good practice a form and doing full CRUD with a `json-server` API
-  - **React Pokemon Searcher**: good practice with a form and a search filter
-  - **Sushi Saga**: good practice working with arrays and state, and sharing
-    data between components. On the more challenging side, but has some fun new
-    problems!
-  - **Chatterbox** here for you if you like Scrimba and want a code
-    challenge-style Scrimba exercise:
-    [https://scrimba.com/playlist/prxdvSy](https://scrimba.com/playlist/prxdvSy)
+- Applying Your Learning (7)
+  - ⭐️ **Flatiron Stock Exchange**
+- (Optional) Additional Practice (7)
 
 ## Weeks 19 – 21
 
