@@ -85,4 +85,4 @@ way to reinforce what you know and force you to encounter new problems, while
 giving you the opportunity to be creative and explore more tools from the React
 ecosystem.
 
-Details for the project can be found in the Milestones module.
+Details for the project can be found in the Phase 2 Project module.
